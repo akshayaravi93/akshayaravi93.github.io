@@ -1,4 +1,6 @@
 About me
 navbar:
+  - name: "Home"
+    url: /
   - name: "Projects"
-    url: /projects.md
+    url: /projects 
