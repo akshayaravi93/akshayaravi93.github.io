@@ -1,7 +1,9 @@
 # 👋 Hi, I'm [Akshaya Ravi]
 
-**Interests**: AI Engineering • Open Source • NLP • Text • Speech
+**Interests**: AI Engineering • Open Source • NLP • Text • Speech • Image\
 **Aspirations**: Building ethical AI systems | Product development
+
+🔗 [My Projects](/projects.md) | 🎓 [Education](/education.md) | 🎨 [Hobbies](/hobbies.md)
 
 ```python
 # My coding philosophy
@@ -13,8 +15,6 @@ while solving(problem):
     deploy_code()
 ```
 
-🔗 [My Projects](/projects.md) | 🎓 [Education](/education.md) | 🎨 [Hobbies](/hobbies.md)
-
 ---
 
 ## 🧠 Current Interests
@@ -23,5 +23,6 @@ while solving(problem):
 - Technical writing
 
 ## 🚀 Future Goals
-- Launch an ML podcast 
+- Launch an dance AI tutor app
 - Mentor 100+ developers
+
