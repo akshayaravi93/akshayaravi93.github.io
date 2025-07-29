@@ -3,4 +3,4 @@ navbar:
   - name: "Home"
     url: /
   - name: "Projects"
-    url: /projects 
+    [Projects](./projects.html)
