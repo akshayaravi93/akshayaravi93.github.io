@@ -1,10 +1,6 @@
----
-layout: page
-title: Projects
-nav_order: 2 
----
+# 🛠️ Projects
 
-## 🚀 Featured Projects
+<div class="project" markdown="1">
 
 ### 🤖 AI Customer Support Bot
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/akshayaravi93/customer_bot_support)
@@ -26,3 +22,7 @@ An exploratory customer support chatbot leveraging NLP techniques to create inte
 - Multi-format document processing (PDF, DOCX, HTML)
 - Real-time web search capability
 - Customizable Gradio UI
+
+</div>
+
+<div class="project" onclick="showDemo('project1')">
